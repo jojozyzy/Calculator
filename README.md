@@ -8,4 +8,4 @@ Completed user stories:
 * [x] User can select between tip amounts (i.e 10%, 15%, 20%)
 * [x] Upon selecting tip amount, formatted tip value is displayed
 
-<img src="https://raw.githubusercontent.com/jojozyzy/calculator/master/tipCal.gif" width="300">
+<img src="https://github.com/jojozyzy/Calculator/blob/master/calculator.gif" width="300">
